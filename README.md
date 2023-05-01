@@ -2,7 +2,7 @@
 <p align="center">
 
 ### Hi there 👋
-
+🌱 I’m currently a second year Computer science and AI student at "Sapienza University of Rome"
 </p>
 <!--
 **PhilHippo/PhilHippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
