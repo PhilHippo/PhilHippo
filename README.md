@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center">A passionate Applied Computer Science and AI Student</h3>
+<h3 align="center">A passionate High Performance Computing Engineering student</h3>
 
 - 🔭 I’m currently working on **AI development for Time series forecasting in Facility Management**
 
