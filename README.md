@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI development for Time series forecasting in Facility Management**
 
-- 🌱 I’m currently learning **Diffusion Models, Energy Based Models and Robustness**
+- 🌱 I’m currently learning **Numerical Methods**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
