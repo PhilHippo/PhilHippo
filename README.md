@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
 <h3 align="center">A passionate High Performance Computing Engineering student</h3>
 
-- 🔭 I’m currently working on **AI development for Time series forecasting in Facility Management**
+- 🔭 I’m currently building multi-agent systems
 
-- 🌱 I’m currently learning **Numerical Methods**
+- 🌱 I’m currently learning **LLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
